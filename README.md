@@ -4,7 +4,7 @@
 ![Swing](https://img.shields.io/badge/Swing-GUI-green)
 ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
 
-Este é um aplicativo simples e eficiente para converter números entre os formatos **romano** e **decimal**. Desenvolvido em Java com uma interface gráfica intuitiva, o programa é ideal para estudantes, entusiastas e curiosos sobre sistemas de numeração.
+Este é um aplicativo simples e eficiente para converter números entre os formatos **romano** e **decimal**. Desenvolvido em Java com uma interface gráfica intuitiva.
 
 ## 🛠️ Funcionalidades
 - **Conversão de Decimal para Romano**: Digite um número decimal e obtenha o correspondente em numeral romano.
